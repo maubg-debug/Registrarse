@@ -47,7 +47,7 @@
                         <input class="form-control" type="text" name="name" placeholder="Nombre" required value="<?php echo $name ?>">
                     </div>
                     <div class="form-group">
-                        <input class="form-control" type="email" name="email" placeholder="Emailo" required value="<?php echo $email ?>">
+                        <input class="form-control" type="email" name="email" placeholder="Email" required value="<?php echo $email ?>">
                     </div>
                     <div class="form-group">
                         <input class="form-control" type="password" name="password" placeholder="Contraseña" required>
@@ -59,7 +59,7 @@
                         <input class="form-control button" type="submit" name="signup" value="Registrarse">
                     </div>
                     <div class="link login-link text-center">
-                        ¿Ya eres un miembro? <a href="login-user.php">Entra</a></div>
+                        ¿Ya eres un miembro? <a href="login-user.php">Entrar</a></div>
                 </form>
             </div>
         </div>
